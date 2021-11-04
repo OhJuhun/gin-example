@@ -1,0 +1,2 @@
+# gin-example
+study structure
